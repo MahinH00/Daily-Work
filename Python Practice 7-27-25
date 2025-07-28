@@ -1,0 +1,9 @@
+numbers = [5, 2, 9, 1, 5, 6, 6, 3, 2]
+numbers.sort()
+print("Sorted numbers:", numbers)
+print(numbers.count(5))
+uniques = []
+for number in numbers:
+    if number not in uniques:
+    uniques.append(number)
+    print(uniques)
