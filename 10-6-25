@@ -1,0 +1,28 @@
+# numbers = [2,2,4]
+# num2 = []
+# for num in numbers:
+#     if num not in num2:
+#         num2.append(num)
+# print(num2)
+#
+# x, y, z = numbers
+# print(x, y, z)
+
+# customer = {
+#     "name": "John",
+#     "age": 30,
+#     "is_unc": True,
+#
+#
+# }
+#
+# print(customer["name"])
+#
+num = input("phone#:")
+mapping = {
+    "1": "one"
+    "2": "two"
+    "3": "three"
+}
+
+for ch in num
